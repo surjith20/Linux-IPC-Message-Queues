@@ -89,19 +89,6 @@ int main()
 }
 ```
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## OUTPUT
 
