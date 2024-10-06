@@ -2,7 +2,7 @@
 Linux IPC-Message Queues
 ```
  Name: GAUTHAM KRISHNA
- Register No: 212223240073
+ Register No: 212223240036
 ```
 
 ## AIM:
